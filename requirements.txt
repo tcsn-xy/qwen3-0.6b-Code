@@ -1,0 +1,9 @@
+# CUDA 已就绪: PyTorch 2.5.1+cu124 (CUDA 12.4), RTX 5060 Ti 16GB
+# 无需重新安装 torch，直接使用系统已装版本
+transformers>=4.40.0
+datasets>=2.14.0
+peft>=0.8.0
+accelerate>=0.27.0
+sentencepiece>=0.1.99
+tensorboard
+tqdm

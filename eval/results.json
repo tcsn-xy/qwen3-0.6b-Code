@@ -1,0 +1,18 @@
+{
+  "pass_at_1": 0.75,
+  "bug_fix_rate": 1.0,
+  "explain_score": 1.0,
+  "pass_at_1_detail": {
+    "pass": 3,
+    "total": 4
+  },
+  "bug_fix_detail": {
+    "pass": 1,
+    "total": 1
+  },
+  "explain_detail": {
+    "pass": 1,
+    "total": 1
+  },
+  "\u4e0a\u7ebf": true
+}
